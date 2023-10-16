@@ -1,5 +1,5 @@
 # graph_expression
-An implementation of viewing the expression as a graph. You can view many expression points and you can scale to the directed as well as the acyclic directed graphs at any scale. the experimental data is also present as a sample datasets. 
+an implementation of viewing the expression as a graph. You can view many expression points and you can scale to the directed as well as the acyclic directed graphs at any scale. the experimental data is also present as a sample datasets. 
 
 Gaurav Sablok \
 ORCID: https://orcid.org/0000-0002-4157-9405 \
